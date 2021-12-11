@@ -16,6 +16,6 @@ public class JenkinsTestApplication {
     @RequestMapping("/test")
     public String test () {
         System.out.println("test running");
-        return "test666";
+        return "test6";
     }
 }
